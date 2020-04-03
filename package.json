@@ -21,6 +21,11 @@
     "name": "passpier",
     "email": "poo9810@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenrendao/react-native-smooth-pull-to-refresh.git"
+  },
+  "homepage": "https://github.com/shenrendao/react-native-smooth-pull-to-refresh#readme",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.2",
