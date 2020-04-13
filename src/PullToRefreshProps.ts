@@ -15,5 +15,5 @@ export interface PullToRefreshProps {
 }
 
 export const defaultMinPullDistance = 120;
-export const defaultPTRBackgroundColor = "#f4f4f4";
-export const pullAnimatedBackgroundColor = "#f4f4f4";
+export const defaultPTRBackgroundColor = "rgba(0,0,0,0)";
+export const pullAnimatedBackgroundColor = "rgba(0,0,0,0)";
